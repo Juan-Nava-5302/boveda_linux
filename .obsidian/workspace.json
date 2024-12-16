@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "3abc739b29adb4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d757454a79e115a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5fad67247044c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos/INFO DEL SISTEMA/df - Muestra el uso de espacio en disco de los sistemas de archivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "df - Muestra el uso de espacio en disco de los sistemas de archivos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a34ff155221b3320",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5ef594e1fc3df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573ebee504235bab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "e1528e2cae673291",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "buscar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3468cbe5ec4b839f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 515.5
+  },
+  "right": {
+    "id": "59522477e2ac2646",
+    "type": "split",
+    "children": [
+      {
+        "id": "490c774a1e490664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c83fbf779fcef43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scritps/Exit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Exit"
+            }
+          },
+          {
+            "id": "7fae5494e0e4d37b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "2a3552b8062af0fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2308eb13e6f67fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scritps/Exit.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Exit"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "573ebee504235bab",
+  "lastOpenFiles": [
+    "Comandos/INFO DEL SISTEMA/date - muestra hora y fecha actuales.md",
+    "Comandos/INFO DEL SISTEMA/cal - visualiza el calendario del mes.md",
+    "Scritps/Exit.md",
+    "Comandos/ARCHIVOS/Crontab.md",
+    "Comandos/ARCHIVOS/ls - listar.md",
+    "Comandos/ARCHIVOS/EDITORES DE ARCHIVO/sed - procesa y manipula texto.md",
+    "Scritps/Data Manipulation and Text Transformations - SED.md",
+    "Comandos/ARCHIVOS/mv - mover renombrar.md",
+    "Scritps/Debugging.md",
+    "Scritps/Logging.md",
+    "Comandos/ARCHIVOS/chmod - cambia los permisos de archivos o directorios.md",
+    "Scritps/While loops.md",
+    "Scritps/Añadir un directorio de un script al PATH.md",
+    "Scritps/AND OR.md",
+    "Scritps/Case Statements.md",
+    "Scritps/for loop.md",
+    "Scritps/echo - muestra un mensaje en la pantalla.md",
+    "Comandos/ARCHIVOS/rm - eliminar.md",
+    "Scritps/Shell Functions/Wildcard - Comodín.md",
+    "Referencia obsidian.md",
+    "Scritps/Guía básica scripts.md",
+    "Scritps/Sin nombre",
+    "Scritps/Shell Functions/Funciones.md",
+    "Scritps/Shell Functions",
+    "Scritps/Exit Statuses and Return Codes.md",
+    "Scritps/Punto y coma ; semicolon.md",
+    "Scritps/STDIN.md",
+    "Comandos/INFO DEL SISTEMA/finger - busca información sobre los usuarios.md",
+    "Alias",
+    "Comandos/ARCHIVOS/IMAGENES/{cat}.png",
+    "Comandos/ARCHIVOS/IMAGENES/{ls}.png",
+    "{FF822538-4449-4A98-9F7B-B45B567C63D7}.png",
+    "Comandos/ARCHIVOS/IMAGENES",
+    "Comandos/ARCHIVOS/EDITORES DE ARCHIVO/IMAGENES",
+    "Comandos/INSTALACIONES",
+    "Comandos/REDES",
+    "Comandos/INFO DEL SISTEMA/IMÁGENES/cal.png",
+    "Comandos/INFO DEL SISTEMA/IMÁGENES",
+    "Comandos/INFO DEL SISTEMA",
+    "Comandos/ARCHIVOS/COMPRIMIDOS",
+    "Imágenes/{vi_archivo_abierto}.png",
+    "Imágenes/{vi_archivo}.png",
+    "Imágenes/{hostname}.png",
+    "Imágenes/{uptime}.png",
+    "Imágenes/{fecha}.png"
+  ]
+}
